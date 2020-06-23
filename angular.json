@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "named-outlets"
+    }
+  },
+  "defaultProject": "named-outlets",
+  "cli": {
+    "analytics": "aa3c787b-2142-4d42-8dad-c5ec68770c8a"
+  }
 }
